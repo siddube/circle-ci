@@ -1,1 +1,1 @@
-aws s3 cp --recursive --acl public-read ./build s3://siddubeawsbucket/ --profile user
+aws s3 cp --recursive --acl public-read ./build s3://siddubeawsbucket/
